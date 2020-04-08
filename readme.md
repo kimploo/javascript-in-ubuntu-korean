@@ -1,8 +1,10 @@
 ---
-title: '우분투로 자바스크립트 개발하기'
-metaTitle: '우분투로 자바스크립트 개발하기 - Homesick log'
-metaDescription: '우분투로 자바스크립트를 개발하는 분들을 위한 안내서 입니다.'
+title: "우분투로 자바스크립트 개발하기"
+metaTitle: "우분투로 자바스크립트 개발하기 - Homesick log"
+metaDescription: "우분투로 자바스크립트를 개발하는 분들을 위한 안내서 입니다."
 ---
+
+이 글은 [코드스테이츠 블로그](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-intro-d1d9b6533e05)에 공개되었습니다 :)
 
 ![Intro/java-programming.jpg](https://hongshik-blog-bucket.s3.ap-northeast-2.amazonaws.com/photos/ubuntu-starter/intro-1.jpg)
 
